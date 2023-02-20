@@ -30,4 +30,19 @@ The Organ App
 ![216092893-c975b3d1-b912-431b-9e24-bf508f4a8b79](https://user-images.githubusercontent.com/91882718/219947030-87058910-3cd1-41ad-83b7-05705221f600.png)
 
 
+Project Name: If Only Stock
+
+Solo Project (still developing)
+
+The If Only Stock 
+
+- takes user's name, currency and chosen amount for fantasy investment
+
+- lets users choose a stock they could have bought
+
+- returns the profit the users could have made if they had invested in their chosen stock. The profit is calculated by maximum and minimum stock prices in the last 5 years. 
+
+
+![home](https://user-images.githubusercontent.com/91882718/220111399-a9480620-241a-4008-b4b2-7b3ccbde6916.png)
+![result](https://user-images.githubusercontent.com/91882718/220111418-ad5a697b-1d56-490c-8b9e-8b1a08367ee0.png)
 
