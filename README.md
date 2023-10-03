@@ -10,6 +10,6 @@ https://taksgarby.github.io/curiositymugs/
 <br/>
 
 Cerfiticates:
-AWS Cloud Practitioner
-Robot Framework Automation Certification Level III
-Cisco Introduction to Cybersecurity 
+AWS Cloud Practitioner<br/>
+Robot Framework Automation Certification Level III<br/>
+Cisco Introduction to Cybersecurity <br/>
