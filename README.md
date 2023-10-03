@@ -9,7 +9,9 @@ My fictional e-commerce site<br/>
 https://taksgarby.github.io/curiositymugs/
 <br/>
 
-Cerfiticates:
+Cerfiticates:<br/>
 AWS Cloud Practitioner<br/>
 Robot Framework Automation Certification Level III<br/>
 Cisco Introduction to Cybersecurity <br/>
+
+I am currently working for a .NET/Azure project at a charity as a volunteer developer. 
