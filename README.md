@@ -9,4 +9,7 @@ My fictional e-commerce site<br/>
 https://taksgarby.github.io/curiositymugs/
 <br/>
 
-There might not be many github updates for the next two weeks - I am currently learning C# and .NET for a volunteer project. 
+Cerfiticates:
+AWS Cloud Practitioner
+Robot Framework Automation Certification Level III
+Cisco Introduction to Cybersecurity 
