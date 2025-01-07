@@ -1,7 +1,5 @@
 
 
-https://taksgarby.github.io/portfolio/
-<br/>
 
 My fictional e-commerce site<br/>
 
